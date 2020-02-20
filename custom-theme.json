@@ -1,0 +1,13 @@
+{
+  "color-basic-transparent-100": "rgba(128, 128, 128, 0.08)",
+  "color-basic-transparent-200": "rgba(128, 128, 128, 0.16)",
+  "color-basic-transparent-300": "rgba(128, 128, 128, 0.24)",
+  "color-basic-transparent-400": "rgba(128, 128, 128, 0.32)",
+  "color-basic-transparent-500": "rgba(128, 128, 128, 0.4)",
+  "color-basic-transparent-600": "rgba(128, 128, 128, 0.48)",
+  "color-basic-800": "white",
+  "background-basic-color-1": "white", // <- 800 by default
+  "background-basic-color-2": "white", // <- 900 by default
+  "background-basic-color-3": "#AEB6D0", // <- etc
+  "background-basic-color-4": "yellow"
+}
